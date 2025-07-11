@@ -13,3 +13,9 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 5. Implemented Streaming to prevent slow data requests from blocking your whole page, and to allow the user to start interacting with the UI without waiting for everything to load.
 6. Move data fetching down to the components that need it, thus isolating which parts of your routes should be dynamic.
 
+### Chapter 11
+Debouncing is a programming practice that limits the rate at which a function can fire. In our case, you only want to query the database when the user has stopped typing.
+
+You've handled search and pagination with URL search parameters instead of client state.
+You've fetched data on the server.
+You're using the useRouter router hook for smoother, client-side transitions.
