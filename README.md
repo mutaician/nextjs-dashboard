@@ -30,3 +30,10 @@ using revalidatepath api to revalidate nextjs cache and redirect to redirect use
 
 error handling using error.tsx and not-found.tsx
 custom not-found 
+
+### Chapter 14
+
+Improving accesibility
+using eslint: pnpm lint
+using **useActionState** to show more custom error messages in forms
+more error management 
