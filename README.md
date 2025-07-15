@@ -19,3 +19,9 @@ Debouncing is a programming practice that limits the rate at which a function ca
 You've handled search and pagination with URL search parameters instead of client state.
 You've fetched data on the server.
 You're using the useRouter router hook for smoother, client-side transitions.
+
+### Chapter 12
+React Server Actions allow you to run asynchronous code directly on the server. They eliminate the need to create API endpoints to mutate your data. Instead, you write asynchronous functions that execute on the server and can be invoked from your Client or Server Components.
+
+useing server actions to mutate data 
+using revalidatepath api to revalidate nextjs cache and redirect to redirect user to new page
