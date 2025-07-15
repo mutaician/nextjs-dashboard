@@ -25,3 +25,8 @@ React Server Actions allow you to run asynchronous code directly on the server. 
 
 useing server actions to mutate data 
 using revalidatepath api to revalidate nextjs cache and redirect to redirect user to new page
+
+### Chapter 13
+
+error handling using error.tsx and not-found.tsx
+custom not-found 
