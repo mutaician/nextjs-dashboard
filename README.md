@@ -4,6 +4,9 @@ This is the starter template for the Next.js App Router Course. It contains the 
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
+### Chapter 9
+Suspense allows you to defer rendering parts of your application until a condition is met 
+
 ### Chapter 10
 
 1. Created a database in the same region as your application code to reduce latency between your server and database.
